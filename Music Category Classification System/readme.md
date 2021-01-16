@@ -1,1 +1,1 @@
-### Research project of CSC 2515: Music Category Classification System
+### CSC 2515 Research Project: Music Category Classification System
